@@ -1,3 +1,5 @@
+**No changes from [upstream v3.0.3](https://github.com/joejordanbrown/popover) other than Angular 15 in `package.json`.**
+
 # Angular Popover
 
 [![npm version](https://badge.fury.io/js/%40material-extended%2Fmde.svg)](https://www.npmjs.com/package/%40material-extended%2Fmde)
